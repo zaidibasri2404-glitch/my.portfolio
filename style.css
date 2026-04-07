@@ -76,3 +76,19 @@ display:flex;
 justify-content:center;
 align-items:center;
 gap:30px;
+}
+css
+  @media (max-width:600px)
+{
+  .contact-container
+  {
+    flex-direction:column;
+    text-alighn:center;
+  }
+}
+
+
+
+
+  
+  
